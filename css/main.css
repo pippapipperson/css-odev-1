@@ -1,0 +1,25 @@
+.wallpaper {
+    background-image: url("../futurism/e7e9ff6a61ca0b4a083f326fbd613450.jpeg");
+    background-position: center;
+    background-size: cover;
+    opacity: 0.2;
+    position: fixed;
+    }
+p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+  } 
+h1  {
+    font-family: Verdana, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+body{
+    text-align: center;
+    background-image: url("img_tree.gif"), url("paper.gif");
+    background-color: lightyellow;
+}  
+ul{
+    list-style-position: inside;
+} 
